@@ -1,0 +1,2 @@
+# TextGeneratorApp
+Text Generator App
